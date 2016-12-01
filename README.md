@@ -1,2 +1,2 @@
 # hello-world
-Printing a short string to the console in Unity.
+Here, we're going to print a short string to the console in Unity.
