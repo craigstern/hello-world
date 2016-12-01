@@ -1,6 +1,5 @@
 using UnityEngine;
 using System.Collections;
-using System.Collections.Generic;
 
 //as a public static class, HelloWorld is *always* accessible to any other script that we 
 //create; there's no need to instantiate it or make it a component of a gameobject!
